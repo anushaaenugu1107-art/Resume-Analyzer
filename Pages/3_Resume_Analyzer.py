@@ -115,4 +115,4 @@ Missing Skills:
     st.divider()
 
     if st.button("➡ Go to Next Page (Suggestions)"):
-        st.switch_page("pages/4_Resume_Tips.py")
+        st.switch_page("Pages/4_Resume_Tips.py")
