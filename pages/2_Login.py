@@ -32,4 +32,4 @@ with col1:
 
 with col2:
     if st.button("➡ Resume Analyzer"):
-        st.switch_page("Pages/3_Resume_Analyzer.py")
+        st.switch_page("pages/3_Resume_Analyzer.py")
