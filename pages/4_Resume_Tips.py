@@ -74,4 +74,4 @@ st.subheader("🚀 Next Step")
 st.write("Go to AI Career Advisor for job recommendations based on your resume.")
 
 if st.button("➡ Go to AI Career Advisor"):
-    st.switch_page("Pages/5_AI_Career_Advisor.py")
+    st.switch_page("pages/5_AI_Career_Advisor.py")
