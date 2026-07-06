@@ -85,4 +85,4 @@ st.subheader("🚀 Next Step")
 st.write("Go to Job Roles page to explore detailed job descriptions.")
 
 if st.button("➡ Go to Job Roles"):
-    st.switch_page("Pages/6_Job_Roles.py")
+    st.switch_page("pages/6_Job_Roles.py")
