@@ -136,4 +136,4 @@ st.subheader("📅 Next Step")
 st.write("Go to AI Planner to create your personalized learning roadmap.")
 
 if st.button("➡ Go to AI Planner"):
-    st.switch_page("pages/7_AI_Planner.py")
+    st.switch_page("Pages/7_AI_Planner.py")
